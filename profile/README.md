@@ -65,27 +65,25 @@
 <h1 align="left">Projects</h1>
 
 ###
-<a href="https://github.com/Anand-s-FlutterLab/Gossip-Grove-Frontend.git" target="_blank"><h3 align="left">Gossip Grove</h3></a>
+**<h3>[Gossip Grove](https://github.com/Anand-s-FlutterLab/Gossip-Grove-Frontend)</h3>**.
 A full-stack chat application with Flutter, Node.js, MongoDB, and Firebase, offering user authentication, real-time messaging, push notifications, and profile management for seamless communication.
 <br>
 <b>Technology Used:</b> Flutter, Provider, Node.js, MongoDB, Firebase, Socket.io
 
 ###
-<a href="https://github.com/Anand-s-FlutterLab/BudgetBuddyFrontend">Budget Buddy</a>
+**<h3>[Budget Buddy](https://github.com/Anand-s-FlutterLab/BudgetBuddyFrontend)</h3>**.
 A monthly expense tracking Flutter app with MongoDB and Node.js that empowers users to manage finances efficiently, offering transaction history and in-depth expense analysis, ultimately enabling better financial control.
 <br>
 <b>Technology Used:</b> Flutter, Provider, Node.js, MongoDB
 
 ###
-
-<a href="https://github.com/Anand-s-FlutterLab/Weather-Snap.git" target="_blank"><h3 align="left">Weather Snap</h3></a>
+**<h3>[Weather Snap](https://github.com/Anand-s-FlutterLab/Weather-Snap)</h3>**.
 Weather Snap: A user-friendly weather forecasting app with real-time updates, 3-day forecasts, unit conversion, city search, and personalized reports, ensuring users are well-prepared for any weather condition.
 <br>
 <b>Technology Used:</b> Flutter, Provider, Rest API
 
 ###
-
-<a href="https://github.com/Anand-s-FlutterLab/Shop-Express.git" target="_blank"><h3 align="left">Shop Express</h3></a>
+**<h3>[Shop Express](https://github.com/Anand-s-FlutterLab/Shop-Express)</h3>**.
 ShopExpress: An e-commerce mobile app offering a diverse product catalog, secure checkout, user account management, notifications, search, ratings, reviews, and wishlists to enhance the online shopping experience, prioritizing user convenience and simplicity.
 <br>
 <b>Technology Used:</b> Flutter, GetX, Firebase
