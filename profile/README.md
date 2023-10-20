@@ -71,7 +71,7 @@ A full-stack chat application with Flutter, Node.js, MongoDB, and Firebase, offe
 <b>Technology Used:</b> Flutter, Provider, Node.js, MongoDB, Firebase, Socket.io
 
 ###
-<a href="https://github.com/Anand-s-FlutterLab/BudgetBuddyFrontend.git" target="_blank"><h3 align="left">Budget Buddy</h3></a>
+<a href="https://github.com/Anand-s-FlutterLab/BudgetBuddyFrontend" target="_blank"><h3 align="left">Budget Buddy</h3></a>
 A monthly expense tracking Flutter app with MongoDB and Node.js that empowers users to manage finances efficiently, offering transaction history and in-depth expense analysis, ultimately enabling better financial control.
 <br>
 <b>Technology Used:</b> Flutter, Provider, Node.js, MongoDB
